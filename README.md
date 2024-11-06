@@ -20,7 +20,6 @@ The script modifies the game's original Scaleform UI to add:
 
 ## Credits
 - Original GTA V weapon wheel code
-- Scaleform modifications and improvements
 - https://rage.re/t/old-3d-weapon-wheel/265 for the idea/information
 
 ## License
