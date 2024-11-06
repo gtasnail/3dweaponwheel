@@ -2,7 +2,6 @@
 A FiveM resource that enhances GTA V's weapon wheel with smooth animations and 3D effects.
 
 ## Features
-- Enhanced 3D weapon wheel with depth and perspective
 - Smooth animations when selecting weapons
 - Dynamic scaling effects on weapon selection
 - Bouncy weapon transitions 
