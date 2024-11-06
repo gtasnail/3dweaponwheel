@@ -24,7 +24,7 @@ The script modifies the game's original Scaleform UI to add:
 - https://rage.re/t/old-3d-weapon-wheel/265 for the idea/information
 
 ## License
-This project is licensed under MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Support
 If you need help or find a bug, please create an issue in the GitHub repository.
